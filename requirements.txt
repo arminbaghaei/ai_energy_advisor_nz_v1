@@ -1,6 +1,7 @@
-streamlit
-pandas
-plotly
-Pillow
-streamlit-gsheets
-st-gsheets-connection
+streamlit>=1.36.0
+pandas>=2.0.0
+plotly>=5.18.0
+Pillow>=10.0.0
+st-gsheets-connection>=0.0.4
+gspread>=5.12.0
+google-auth>=2.0.0
