@@ -1,5 +1,5 @@
-streamlit>=1.35
-pandas>=2.0
-plotly>=5.20
-pillow>=10.0
-streamlit-gsheets>=0.0.3
+streamlit
+pandas
+plotly
+Pillow
+streamlit-gsheets
