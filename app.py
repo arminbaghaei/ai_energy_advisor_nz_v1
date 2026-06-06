@@ -3015,9 +3015,9 @@ def render_market_footer() -> None:
             """
             <div class='privacy-card'>
             <strong>What is collected:</strong> anonymous tool responses, selected household assumptions, score, recommendation category, and estimated saving range.<br>
-            <strong>What is not collected:</strong> name, email address, phone number, physical address, or contact details. The optional certificate name is displayed on screen only and is not saved to Google Sheets.<br>
+            <strong>What is not collected:</strong> name, email address, phone number, physical address, or contact details.<br>
             <strong>Why it is collected:</strong> to improve the tool, check usability, and understand common household energy-learning patterns.<br>
-            <strong>Storage:</strong> responses are intended to be saved to a private Google Sheet controlled by the tool owner.
+            <strong>Storage:</strong> responses are intended to be saved to a private Google Sheet controlled by Tech Innovation Experts Ltd.
             </div>
             """,
             unsafe_allow_html=True,
